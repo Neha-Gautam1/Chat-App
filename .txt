@@ -1,0 +1,21 @@
+*****Message Model*****
+
+Ankit(sender)----> "Hello"
+Ankita(receiver) --> "Hii"
+
+_id =jksdjkn(mongoDB)
+senderID = 687d2d63441eb11d59d659b3
+receiverID = 687d31c11e002ee2791b4da5
+Message="Hello"
+
+_id =jksdjkhdfn(mongoDB)
+senderID = 687d31c11e002ee2791b4da5
+receiverID = 687d2d63441eb11d59d659b3
+Message="Hii"
+
+
+Conversation Model
+
+_id = hksgdscfsdyrtttyd(mongoDB)
+member[senderID,receiverID]
+Message[_id]
